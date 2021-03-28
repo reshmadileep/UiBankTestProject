@@ -3,11 +3,13 @@
 This project tests if https://uibank.uipath.com/loans website is working as expected.When the user submits required data for applicants from the inputdata sheet in the website   ,for successful application APR should be generated and this has to be updated in input excel sheet.
 
 ###Pre-requisites
+
 -Java
 -Eclipse IDE
 -Maven
 
 ###Steps
+
 -Create a Maven Project
 -In the pom.xml add the required dependencies and plugins for Selenium-java,Maven,TestNG,Cucumber,poi etc.Refer the pom.xml to see the actual list.
 -Add a testng.xml file
