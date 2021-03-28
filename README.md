@@ -1,6 +1,7 @@
 # UiBankTestProject
 
-This project tests if the user submits required data for applicants from the inputdata sheet in https://uibank.uipath.com/loans website ,for successful application APR should be generated and this has to be updated in input excel sheet.
+This project tests if https://uibank.uipath.com/loans website is working as expected.When the user submits required data for applicants from the inputdata sheet in the website   ,for successful application APR should be generated and this has to be updated in input excel sheet.
+
 ###Pre-requisites
 -Java
 -Eclipse IDE
