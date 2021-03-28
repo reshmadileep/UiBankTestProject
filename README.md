@@ -23,7 +23,7 @@ This project tests if the Apply for a Loan functionality of https://uibank.uipat
       -create a data foder to inlcude input datafile
       -create drivers folder and add all drivers in it
       -create features folder which will have the feature file
-      -Include the TestRunner class in testng.xml and run as a testng suite.The driver will launch the website and the will click the Apply for a Loan button and  will be redirected to the Loan Application page.In the Loan Application page it will enter the data from data file which is actually provided in the feature file.The in the Loan Approval page APR will be displayed.This is then updated in the datafile .
+      -Include the TestRunner class in testng.xml and run as a testng suite.The driver will launch the website and the will click the Apply for a Loan button and  will be redirected to the Loan Application page.In the Loan Application page it will enter the data from data file which is actually provided in the feature file.The in the Loan Approval page APR will be displayed.This is then updated in the datafile .The framework can be extended further by directly taking data from excel file by using data tables.
  
 Reports could be found in test-output folder 
 html report :C:\Users\Local User\git\repository2\UiBankLoanProject\test-output\emailable-report.html
